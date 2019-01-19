@@ -112,3 +112,39 @@ create a field
 
 // Selenium - tools that help automate web browser actions
 // download selenium libraries, create test scripts, then selenium will automate what you allocate to be automatic.
+
+4 components of Selenium - Selenium IDE, record playback plugin 
+
+// WebDriver is an api that is most widely used, to send commands directly to the user.
+
+// selenium grid - tool to run tests in parallel across multiple machines and browsers, minimizes execution time.
+
+
+System.out.println
+
+a = 1
+b = 2
+
+swap the variables
+
+define swap(a, b)
+    temp := a
+    a := b
+    b := temp
+
+    public class {
+ 
+      public static void main(String[] args) {
+          
+        int a, b, temp;
+        a = 15;
+        b = 27;
+        System.out.println("Before swapping : a, b = "+a+", "+ + b);
+        temp = a;
+        a = b;
+        b = temp;   
+       System.out.println("After swapping : a, b = "+a+", "+ + b);
+      }
+      }
+
+      
